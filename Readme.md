@@ -1,0 +1,7 @@
+# CRM-DX Project
+
+This project, titled **CRM-DX**, has been set up as part of my preparation for an interview with Capgemini. The primary goal of this project is to demonstrate my technical skills, problem-solving abilities, and understanding of modern software development practices. It focuses on building a Customer Relationship Management (CRM) system with a digital experience (DX) layer, showcasing my ability to design and implement scalable, user-friendly solutions.
+
+The CRM-DX project incorporates a variety of technologies and tools commonly used in the industry. It emphasizes modular design, clean code practices, and efficient workflows. By working on this project, I aim to highlight my proficiency in full-stack development, including backend services, frontend interfaces, and database management. Additionally, the project demonstrates my ability to integrate third-party APIs and implement features such as authentication, data visualization, and responsive design.
+
+Through this project, I also aim to showcase my understanding of software development methodologies such as Agile and DevOps. The repository includes proper documentation, version control using Git, and a structured approach to testing and deployment. Overall, CRM-DX serves as a comprehensive demonstration of my readiness to contribute effectively to Capgemini's innovative projects and dynamic work environment.
